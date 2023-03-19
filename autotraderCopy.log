@@ -1,0 +1,18 @@
+2023-03-19 20:56:30,255 [INFO   ] [APP] autotraderCopy started with arguments={rtg.py, run, autotrader.py, autotraderCopy.py}
+2023-03-19 20:56:30,255 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Type":"mmap","Name":"info.dat"},"TeamName":"SoberTrader_25","Secret":"aaa"}
+2023-03-19 20:56:30,261 [INFO   ] [CONNECTION] fd=956 connection established: peer=127.0.0.1:12345
+2023-03-19 20:56:30,275 [INFO   ] [CONNECTION] fd=956 connection lost
+2023-03-19 20:56:30,276 [INFO   ] [APP] closing event loop
+2023-03-19 20:56:30,276 [INFO   ] [RECEIVER] connection lost
+2023-03-19 20:57:34,154 [INFO   ] [APP] autotraderCopy started with arguments={rtg.py, run, autotrader.py, autotraderCopy.py}
+2023-03-19 20:57:34,162 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Type":"mmap","Name":"info.dat"},"TeamName":"SoberTrader_25","Secret":"aaa"}
+2023-03-19 20:57:34,165 [INFO   ] [CONNECTION] fd=888 connection established: peer=127.0.0.1:12345
+2023-03-19 20:57:34,166 [INFO   ] [CONNECTION] fd=888 connection lost
+2023-03-19 20:57:34,167 [INFO   ] [APP] closing event loop
+2023-03-19 20:57:34,167 [INFO   ] [RECEIVER] connection lost
+2023-03-19 20:57:49,430 [INFO   ] [APP] autotraderCopy started with arguments={rtg.py, run, autotrader.py, autotraderCopy.py}
+2023-03-19 20:57:49,430 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Type":"mmap","Name":"info.dat"},"TeamName":"SoberTrader_25","Secret":"aaa"}
+2023-03-19 20:57:49,433 [INFO   ] [CONNECTION] fd=880 connection established: peer=127.0.0.1:12345
+2023-03-19 20:57:49,444 [INFO   ] [CONNECTION] fd=880 connection lost
+2023-03-19 20:57:49,444 [INFO   ] [APP] closing event loop
+2023-03-19 20:57:49,444 [INFO   ] [RECEIVER] connection lost

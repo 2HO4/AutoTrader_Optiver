@@ -1,0 +1,6 @@
+2023-03-19 20:34:35,402 [INFO   ] [APP] autotrader started with arguments={rtg.py, run, autotrader.py}
+2023-03-19 20:34:35,403 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Type":"mmap","Name":"info.dat"},"TeamName":"SoberTrader_24","Secret":"G4+Ky6SXYj+RXsyO1Tjup9dTGz52BTIcBuGf3YojR4A="}
+2023-03-19 20:34:35,417 [INFO   ] [CONNECTION] fd=932 connection established: peer=127.0.0.1:12345
+2023-03-19 20:34:35,422 [INFO   ] [CONNECTION] fd=932 connection lost
+2023-03-19 20:34:35,423 [INFO   ] [APP] closing event loop
+2023-03-19 20:34:35,423 [INFO   ] [RECEIVER] connection lost
