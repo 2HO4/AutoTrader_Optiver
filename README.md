@@ -19,13 +19,13 @@ pip3 install PySide6
 ## Running a Ready Trader Go Match
 To run a trading competition with one or more autotraders, simply execute the following command:
 
-bash```
+```bash
 python3 rtg.py run [AUTOTRADER FILENAME [AUTOTRADER FILENAME]]
 ```
 
 For example:
 
-bash```
+```bash
 python3 rtg.py run autotrader.py
 ```
 
