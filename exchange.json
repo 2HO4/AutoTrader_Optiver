@@ -36,7 +36,7 @@
     "PositionLimit": 100
   },
   "Traders": {
-    "TraderOne": "secret",
-    "TraderTwo": "secret"
+    "SoberTrader_24": "xxxxx",
+    "SoberTrader_25": "aaa"
   }
 }
