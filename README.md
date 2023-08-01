@@ -1,4 +1,4 @@
-# Autotrader Algorithm
+# Autotrader Algorithm for Optiver's Ready Trader Go
 
 ## Getting Started
 
